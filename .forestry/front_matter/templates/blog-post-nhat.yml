@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: Nhat
+pages:
+- Xin chao/xin chao.md
